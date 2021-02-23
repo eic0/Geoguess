@@ -14,6 +14,7 @@ import './registerServiceWorker';
 import router from './router';
 import store from './store';
 
+// test
 Vue.use(VueAxios, axios);
 
 Vue.use(CountryNamePlugin);
